@@ -1,0 +1,8 @@
+librosa
+sounddevice
+scipy
+pillow
+sounddevice
+numpy
+librosa
+matplotlib
