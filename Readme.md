@@ -1,4 +1,4 @@
-This small project show how to convert image to wav file and back.
+# This small project show how to convert image to wav file and back.
 
 TODO:
 img2sound and sound2img converters
